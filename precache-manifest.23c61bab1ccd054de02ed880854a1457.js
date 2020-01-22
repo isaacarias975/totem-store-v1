@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce95d76f9a3597fd58c1b43a53e138ef",
+    "revision": "f0a2aa5baef063a6540d244a7b564380",
     "url": "/totem-store-v1/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totem-store-v1/static/css/2.01be1d30.chunk.css"
   },
   {
-    "revision": "812fcfaa95aacda89430",
+    "revision": "c3ec801c8ba8b45034ca",
     "url": "/totem-store-v1/static/css/main.f7ded355.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totem-store-v1/static/js/2.70dcf72d.chunk.js"
   },
   {
-    "revision": "812fcfaa95aacda89430",
-    "url": "/totem-store-v1/static/js/main.2ed56ca4.chunk.js"
+    "revision": "c3ec801c8ba8b45034ca",
+    "url": "/totem-store-v1/static/js/main.91600fc8.chunk.js"
   },
   {
     "revision": "774d5c7b93c6108e369b",
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totem-store-v1/static/media/profile.6f35ff89.jpg"
   },
   {
-    "revision": "d2164dfaacacf9efa36864ec07876cf4",
-    "url": "/totem-store-v1/static/media/splash.d2164dfa.jpeg"
+    "revision": "00bf4e2c48ffb47eeb12a4baf16480d0",
+    "url": "/totem-store-v1/static/media/splash.00bf4e2c.png"
   }
 ]);

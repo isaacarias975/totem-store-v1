@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/totem-store-v1/precache-manifest.282ffaab3df2bacc655fd2d9c44ab09f.js"
+  "/totem-store-v1/precache-manifest.23c61bab1ccd054de02ed880854a1457.js"
 );
 
 self.addEventListener('message', (event) => {
