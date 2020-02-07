@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec3a5c53ea0a8b02631937ec2219f0c0",
+    "revision": "2047b34a2c873705dc952772df382d2a",
     "url": "/totem-store-v1/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totem-store-v1/static/css/2.6cf7b7ef.chunk.css"
   },
   {
-    "revision": "2a7c952080785cb8b223",
+    "revision": "5810fc58eedbe35d016b",
     "url": "/totem-store-v1/static/css/main.d526d79d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/totem-store-v1/static/js/2.1ea77d53.chunk.js"
   },
   {
-    "revision": "2a7c952080785cb8b223",
-    "url": "/totem-store-v1/static/js/main.e1f0a7b3.chunk.js"
+    "revision": "5810fc58eedbe35d016b",
+    "url": "/totem-store-v1/static/js/main.661b4ca0.chunk.js"
   },
   {
     "revision": "774d5c7b93c6108e369b",
